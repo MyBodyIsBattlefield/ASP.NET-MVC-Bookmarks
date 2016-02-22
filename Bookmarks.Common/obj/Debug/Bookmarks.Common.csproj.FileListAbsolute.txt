@@ -1,0 +1,10 @@
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\Bookmarks.Common.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\Bookmarks.Common.pdb
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.pdb
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.xml
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\obj\Debug\Bookmarks.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\obj\Debug\Bookmarks.Common.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Common\obj\Debug\Bookmarks.Common.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Data.dll.config
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Data.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Data.pdb
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Models.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Models.pdb
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\obj\Debug\Bookmarks.Data.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\obj\Debug\Bookmarks.Data.dll
+C:\Users\Kirill\Documents\GitHub\ASP.NET-MVC-Bookmarks\Bookmarks.Data\obj\Debug\Bookmarks.Data.pdb
